@@ -1,3 +1,23 @@
+# plano
+
+componentes
+Root
+  header
+
+  Lista de compras
+    lista de compras
+    lista de compras edit
+  livro de receitas
+    lista de receitas
+    item de receita
+    detalhe de receita
+
+
+    model
+      ingrediente
+      receita
+
+
 # Receitas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
